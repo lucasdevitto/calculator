@@ -1,6 +1,11 @@
 # calculator
 
-A new Flutter project.
+Projeto de uma calculadora utilizando o framework Flutter. 
+
+<p align="center">
+  <img src = "https://github.com/lucasdevitto/calculator/blob/main/pictures/calculadora.gif" height="700">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ## Getting Started
 
